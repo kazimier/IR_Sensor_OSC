@@ -7,8 +7,8 @@
 
 
 
-const char* ssid = "ME@BOZ.BIZ"; // ssid
-const char* password = "plopplop";// password
+const char* ssid = "*******"; // ssid
+const char* password = "********";// password
 IPAddress ip(192, 168, 1, 25); //set static ip
 IPAddress gateway(192, 168, 1, 1); //set getteway
 IPAddress subnet(255, 255, 255, 0);//set subnet
